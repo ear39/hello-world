@@ -1,2 +1,3 @@
 # hello-world
-brief description
+brief description 
+Here is some stuff I want to share about myself
